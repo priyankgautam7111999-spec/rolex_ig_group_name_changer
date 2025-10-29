@@ -1,0 +1,12 @@
+```json
+{
+  "username": "your_instagram_username",
+  "password": "your_instagram_password",
+  "base_names": ["My Group"],
+  "emojis": ["🔥", "😂", "🎉"],
+  "interval": 60,
+  "count": 0,
+  "single_name_mode": true,
+  "headless": false
+}
+```
